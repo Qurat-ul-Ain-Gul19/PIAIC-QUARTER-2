@@ -1,0 +1,38 @@
+UNDER FITTING:
+Both training and testing accuracy is low
+MODEL IS BAISED
+
+OVER FITTING:
+training accuracy good but not testing 
+HIGH VARIANCE
+
+FIGHTING OVERFITTING:
+HOW TO INCREASE ACCURACY?
+
+1.GETTING MORE TRAINING DATA
+2.REDUCING/INCREASING THE CAPACITY OF NETWORK...dec no of nodes and layers
+3.ADDING WEIGHT REGULARIZATION
+4.ADDING DROPOUT
+
+
+TRAINING ACCURACY: Daily Quiz
+VALIDATION ACCURACY: Check points
+TESTING ACCURACY:Finals
+
+OPTIMUM:
+Point where validation accuracy is the best, teacher at the end of class , conducts a test ad judge it 
+
+OPTIMIZATION: REFERS TO THE ADJUSTMENT OF A MODEL TO GET BEST PERFORMANCE ON THE TRAINING DATA
+
+GENERALIZATION: REFERS TO HOW WELL THE MODEL WOULD PERFORM ON THE DATA IT HAS NEVER SEEN
+
+
+validation and testing both data are unseen
+
+DATA AUGMENTATION:
+
+
+capacity:no of layers
+
+firstly less no of layers , less nodes then gradually inc that
+
