@@ -1,0 +1,9 @@
+OVERFITTING:
+Good trining accuracy but bad testing accuracy
+
+
+HOW TO PREVENT OVERFITTING:
+1.drop some values
+2.
+
+interest, researchers articles, can work in that area generate wealth
